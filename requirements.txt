@@ -1,0 +1,10 @@
+torch
+torchvision
+matplotlib
+scipy
+imageio
+scikit-image
+pandas
+seaborn
+Pillow
+tqdm

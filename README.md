@@ -1,5 +1,5 @@
 # Property Controllable Variational Autoencoder via Invertible Mutual Dependence.
-![image_text](images/NEC-DGT.png)
+
 This repository is the official Tensorflow implementation of PCVAE, a property controllable variational autoencoder.
 
 The relevant paper is ["Property Controllable Variational Autoencoder"](http://mason.gmu.edu/~lzhao9/materials/papers/ICDM_2019_NEC_DGT-final.pdf).
@@ -32,6 +32,6 @@ The 3Dshape dataset can be found and downloaded at [Datasets for 3Dshape](https:
 ### For testing the model on 3dshapes datasets:
  run main_viz.py control_3dshapes all -e 60 -d 3dshapes
 
-### All the parameters can be modofied in the file: hyperparam.ini
-### All the generated results will be stored in the folder: results
+All the parameters can be modofied in the file: hyperparam.ini
+All the generated results will be stored in the folder: results
  

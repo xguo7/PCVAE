@@ -2,7 +2,7 @@
 
 This repository is the official Tensorflow implementation of PCVAE, a property controllable variational autoencoder.
 
-The relevant paper is ["Property Controllable Variational Autoencoder"](http://mason.gmu.edu/~lzhao9/materials/papers/ICDM_2019_NEC_DGT-final.pdf).
+The relevant paper is ["Property Controllable Variational Autoencoder"](http://mason.gmu.edu/~lzhao9/materials/papers/ICDM_2019_NEC_DGT-final.pdf) in ICLR'21.
 
 [Xiaojie Guo](https://sites.google.com/view/xiaojie-guo-personal-site), [Yuanqi Du](https://yuanqidu.github.io/), [Liang Zhao](http://mason.gmu.edu/~lzhao9/).
 
